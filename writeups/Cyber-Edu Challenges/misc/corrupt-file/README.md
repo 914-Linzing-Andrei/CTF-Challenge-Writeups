@@ -16,7 +16,7 @@ We see it is a .xz file
 
 <img width="458" alt="file" src="https://user-images.githubusercontent.com/107073731/202024437-41b4cb82-bf6d-4dca-8374-db01799df94e.png">
 
-What we do ? Well, we rename the file to have .xz extension and decompress it.
+So what do we do ? Well, we rename the file to have .xz extension and decompress it.
 
 
 <img width="497" alt="xz extension" src="https://user-images.githubusercontent.com/107073731/202025401-09c9e2c6-5821-49f7-bfcd-373087362acc.png">
