@@ -1,3 +1,2 @@
 <h1>Corrupted-file</h1>
-
-https://user-images.githubusercontent.com/107073731/202018874-ebfd8929-394a-4236-a389-c26df9e6ee9b.png
+<img width="578" alt="Screenshot 2022-11-15 223027" src="https://user-images.githubusercontent.com/107073731/202022546-f8a3982b-bdb7-40c1-96ff-f901ff04c8cf.png">
