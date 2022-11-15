@@ -1,2 +1,1 @@
-
-writeups/Cyber-Edu Challenges/misc/corrupt-file/images/Screenshot 2022-11-15 223027.png
+https://github.com/914-Linzing-Andrei/CTF-Writeups/blob/main/writeups/Cyber-Edu%20Challenges/misc/corrupt-file/images/Screenshot%202022-11-15%20223027.png
